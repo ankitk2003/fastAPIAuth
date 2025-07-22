@@ -12,9 +12,6 @@ A clean, secure **FastAPI** authentication system with API key support, designed
 - 🗂️ Supports SQLite (default), PostgreSQL, and partial MongoDB
 - 🕒 Automatically expires API keys after 15 days (configurable)
 - 🔐 Master secret protection for admin-only endpoints
-- 🧼 Option to hide docs for certain endpoints
-- 🔄 Fully async and testable with `pytest`
-
 ---
 
 ## 🚀 Installation
